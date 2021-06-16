@@ -1,0 +1,15 @@
+body { }
+.header {
+     color:white;
+     background: rgb(63,27,81);
+background: -moz-linear-gradient(90deg, rgba(63,27,81,1) 0%, rgba(10,83,182,1) 100%);
+background: -webkit-linear-gradient(90deg, rgba(63,27,81,1) 0%, rgba(10,83,182,1) 100%);
+background: linear-gradient(90deg, rgba(63,27,81,1) 0%, rgba(10,83,182,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#3f1b51",endColorstr="#0a53b6",GradientType=1);
+
+}
+
+ul {
+     list-style: none;
+}
+.search button {color: #4b9be1;}
